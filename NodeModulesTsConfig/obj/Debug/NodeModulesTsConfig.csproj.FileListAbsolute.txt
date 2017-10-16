@@ -1,0 +1,1 @@
+C:\Users\rhoq\dev\git\NodeModulesTsConfig\NodeModulesTsConfig\obj\Debug\NodeModulesTsConfig.csprojResolveAssemblyReference.cache

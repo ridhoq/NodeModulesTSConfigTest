@@ -1,0 +1,14 @@
+{
+  "name": "nodemodulestsconfig",
+  "dependencies": {
+    "@athena/aw-api": "1.0.1-alpha.4"
+  },
+  "version": "1.0.0",
+  "description": "test",
+  "main": "src\\index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
